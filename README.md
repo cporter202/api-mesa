@@ -1,14 +1,18 @@
 <div align="center">
   <a href="https://apimesa.com" target="_blank" rel="noopener">
-    <img src="./assets/hero.png" alt="API Mesa — 150+ Pay-Per-Call APIs" width="100%">
+    <img src="./assets/hero.png" alt="API Mesa — 150+ APIs" width="100%">
   </a>
 </div>
+
+<div align="center">
 
 # API Mesa
 
 **150+ pay-per-call APIs for AI, web scraping, data, SEO, lead generation, media, and developer utilities — one API key, clear credit pricing, and a live playground for every API.**
 
 [![Stars](https://img.shields.io/github/stars/cporter202/api-mesa?style=for-the-badge)](https://github.com/cporter202/api-mesa/stargazers) [![APIs](https://img.shields.io/badge/APIs-150%2B-7c3aed?style=for-the-badge)](https://apimesa.com) [![Marketplace](https://img.shields.io/badge/Marketplace-apimesa.com-00d6a3?style=for-the-badge)](https://apimesa.com)
+
+</div>
 
 [APIMesa](https://apimesa.com) is a pay-per-call API marketplace. Instead of juggling five different subscriptions, dashboards, and billing plans, you get **one API key** and **one credit balance** that works across the whole catalog. Every API shows its exact credit cost up front, and every API has an interactive playground so you can test it in the browser before you write a line of code.
 
