@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://apimesa.com" target="_blank" rel="noopener">
-    <img src="./assets/hero.png" alt="API Mesa — 150+ APIs" width="100%">
+    <img src="./assets/hero.png" alt="API Mesa — 150+ Powerhouse APIs" width="100%">
   </a>
 </div>
 
